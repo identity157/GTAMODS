@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="org.identity.gtamods">
+    <name>GTA-MODS</name>
+    <description>
+       O GTA MODS vem com o intuito de oferecer os melhores mods para o seu apk.
+    </description>
+    <author>
+        Identity
+    </author>
+    <icon src="3dbc78e4692a85d.png"/>
+    <gap:splash src="teladecarregamento.png"/>
+</widget>
